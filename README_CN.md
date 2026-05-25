@@ -18,6 +18,7 @@
 
 | 日期 | 新闻 |
 |------|------|
+| 🔥 2026/05/25 | CVPR2026: **FlowDIS** - Language-Guided DIS with Flow Matching |
 | 🔥 2026/03/05 | CVPR2026: **PDFNet** - High-Precision DIS via Depth Integrity-Prior |
 | 🔥 2026/03/05 | ICLR: **S3OD** - Generalizable SOD with Synthetic Data |
 | 🔥 2026/02/26 | Sensors: **PMG-SAM** - Boosting SAM with Pre-Mask Guidance |
@@ -100,6 +101,8 @@
 
 | 年份 | 期刊 | 🏗️ 网络 | 标题 | 作者 | 链接 |
 |------|------|-------------|-------|--------|-------|
+| 2026 | CVPR | **FlowDIS** | Language-Guided Dichotomous Image Segmentation with Flow Matching | Andranik Sargsyan, Shant Navasardyan | [论文](https://arxiv.org/abs/2605.05077) / [项目](https://flowdis.github.io/) / [代码](https://github.com/Picsart-AI-Research/FlowDIS) [![Stars](https://img.shields.io/github/stars/Picsart-AI-Research/FlowDIS?style=social)](https://github.com/Picsart-AI-Research/FlowDIS) |
+| | | | *基于流匹配框架，将图像分布转换为对应的掩码分布，并通过位置感知实例配对 (PAIP) 训练策略支持可选的文本提示引导。* | | |
 | 2026 | CVPR | **PDFNet** | High-Precision DIS via Depth Integrity-Prior and Fine-Grained Patch Strategy | Xianjie Liu, Keren Fu, Qijun Zhao | [论文](https://arxiv.org/abs/2503.06100) / [代码](https://github.com/Tennine2077/PDFNet) [![Stars](https://img.shields.io/github/stars/Tennine2077/PDFNet?style=social)](https://github.com/Tennine2077/PDFNet) |
 | | | | *引入深度完整性先验和细粒度补丁策略，实现对复杂物体的高精度分割。* | | |
 | 2026 | ICLR | **S3OD** | Towards Generalizable Salient Object Detection with Synthetic Data | Orest Kupyn, Hirokatsu Kataoka, Christian Rupprecht | [论文](https://arxiv.org/abs/2510.21605) / [项目](https://s3odproject.github.io/) |
@@ -174,6 +177,8 @@
 
 | 年份 | 期刊 | 🏗️ 网络 | 标题 | 作者 | 链接 |
 |------|------|-------------|-------|--------|-------|
+| 2026 | CVPR | **FlowDIS** | Language-Guided Dichotomous Image Segmentation with Flow Matching | Andranik Sargsyan, Shant Navasardyan | [论文](https://arxiv.org/abs/2605.05077) / [项目](https://flowdis.github.io/) / [代码](https://github.com/Picsart-AI-Research/FlowDIS) [![Stars](https://img.shields.io/github/stars/Picsart-AI-Research/FlowDIS?style=social)](https://github.com/Picsart-AI-Research/FlowDIS) |
+| | | | *基于流匹配框架，将图像分布转换为对应的掩码分布，并通过位置感知实例配对 (PAIP) 训练策略支持可选的文本提示引导。* | | |
 | 2026 | Sensors | **PMG-SAM** | Boosting Auto-Segmentation of SAM with Pre-Mask Guidance | Xinyu Yan, Meijun Sun, Ge-Peng Ji, et al. | [论文](https://www.mdpi.com/1424-8220/26/2/365) |
 | | | | *引入预掩码引导机制，提升SAM的自动分割能力以获得更好的初始预测。* | | |
 

@@ -18,6 +18,7 @@
 
 | Date | News |
 |------|------|
+| 🔥 2026/05/25 | CVPR2026: **FlowDIS** - Language-Guided DIS with Flow Matching |
 | 🔥 2026/03/05 | CVPR2026: **PDFNet** - High-Precision DIS via Depth Integrity-Prior |
 | 🔥 2026/03/05 | ICLR: **S3OD** - Generalizable SOD with Synthetic Data |
 | 🔥 2026/02/26 | Sensors: **PMG-SAM** - Boosting SAM with Pre-Mask Guidance |
@@ -98,6 +99,8 @@ Big thanks to him for making this possible! ❤️
 
 | Year | Pub. | 🏗️ Network | Title | Author | Links |
 |------|------|-------------|-------|--------|-------|
+| 2026 | CVPR | **FlowDIS** | Language-Guided Dichotomous Image Segmentation with Flow Matching | Andranik Sargsyan, Shant Navasardyan | [Paper](https://arxiv.org/abs/2605.05077) / [Project](https://flowdis.github.io/) / [Code](https://github.com/Picsart-AI-Research/FlowDIS) [![Stars](https://img.shields.io/github/stars/Picsart-AI-Research/FlowDIS?style=social)](https://github.com/Picsart-AI-Research/FlowDIS) |
+| | | | *Builds on flow matching to transport the image distribution to the corresponding mask distribution, with optional text-prompt guidance via the Position-Aware Instance Pairing (PAIP) training strategy.* | | |
 | 2026 | CVPR | **PDFNet** | High-Precision DIS via Depth Integrity-Prior and Fine-Grained Patch Strategy | Xianjie Liu, Keren Fu, Qijun Zhao | [Paper](https://arxiv.org/abs/2503.06100) / [Code](https://github.com/Tennine2077/PDFNet) [![Stars](https://img.shields.io/github/stars/Tennine2077/PDFNet?style=social)](https://github.com/Tennine2077/PDFNet) |
 | | | | *Introduces depth integrity prior and fine-grained patch strategy to achieve high-precision segmentation for complex objects.* | | |
 | 2026 | ICLR | **S3OD** | Towards Generalizable Salient Object Detection with Synthetic Data | Orest Kupyn, Hirokatsu Kataoka, Christian Rupprecht | [Paper](https://arxiv.org/abs/2510.21605) / [Project](https://s3odproject.github.io/) |
@@ -172,6 +175,8 @@ Big thanks to him for making this possible! ❤️
 
 | Year | Pub. | 🏗️ Network | Title | Author | Links |
 |------|------|-------------|-------|--------|-------|
+| 2026 | CVPR | **FlowDIS** | Language-Guided Dichotomous Image Segmentation with Flow Matching | Andranik Sargsyan, Shant Navasardyan | [Paper](https://arxiv.org/abs/2605.05077) / [Project](https://flowdis.github.io/) / [Code](https://github.com/Picsart-AI-Research/FlowDIS) [![Stars](https://img.shields.io/github/stars/Picsart-AI-Research/FlowDIS?style=social)](https://github.com/Picsart-AI-Research/FlowDIS) |
+| | | | *Builds on flow matching to transport the image distribution to the corresponding mask distribution, with optional text-prompt guidance via the Position-Aware Instance Pairing (PAIP) training strategy.* | | |
 | 2026 | Sensors | **PMG-SAM** | Boosting Auto-Segmentation of SAM with Pre-Mask Guidance | Xinyu Yan, Meijun Sun, Ge-Peng Ji, et al. | [Paper](https://www.mdpi.com/1424-8220/26/2/365) |
 | | | | *Introduces pre-mask guidance mechanism to boost SAM's auto-segmentation capability for better initial predictions.* | | |
 
