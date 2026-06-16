@@ -112,7 +112,7 @@ Big thanks to him for making this possible! ❤️
 |------|------|-------------|-------|--------|-------|
 | 2025 | ICLR | **DiffDIS** | High-Precision DIS via Probing Diffusion Capacity | Qian Yu, Peng-Tao Jiang, Hao Zhang, Jinwei Chen, Bo Li, Lihe Zhang, Huchuan Lu | [Paper](https://arxiv.org/abs/2410.10105) / [Code](https://github.com/qianyu-dlut/DiffDIS) [![Stars](https://img.shields.io/github/stars/qianyu-dlut/DiffDIS?style=social)](https://github.com/qianyu-dlut/DiffDIS) |
 | | | | *Explores the inherent capacity of pre-trained diffusion models for high-precision dichotomous image segmentation.* | | |
-| 2025 | ICLR | **GenPercept** | What Matters When Repurposing Diffusion Models for General Dense Perception Tasks? | Guangkai Xu, Yongtao Ge, Mingyu Liu, et al. | [Paper](https://arxiv.org/abs/2403.06090) / [Code](https://github.com/aim-uofa/GenPercept) [![Stars](https://img.shields.io/github/stars/aim-uofa/GenPercept?style=social)](https://github.com/aim-uofa/GenPercept) |
+| 2025 | ICLR | **GenPercept** | What Matters When Repurposing Diffusion Models for General Dense Perception Tasks? | Guangkai Xu, Yongtao Ge, Mingyu Liu, Chengxiang Fan, Kangyang Xie, Zhiyue Zhao, Hao Chen, Chunhua Shen | [Paper](https://arxiv.org/abs/2403.06090) / [Code](https://github.com/aim-uofa/GenPercept) [![Stars](https://img.shields.io/github/stars/aim-uofa/GenPercept?style=social)](https://github.com/aim-uofa/GenPercept) |
 | | | | *Systematically investigates key factors when adapting diffusion models for dense prediction tasks including DIS.* | | |
 | 2025 | PR | **S2DiNet** | Towards Lightweight and Fast High-Resolution DIS | Shuhan Chen, Haonan Tang, Yuan Huang, Lifeng Zhang, Xuelong Hu | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320325001669) / [Code](https://github.com/m0ho/S2DiNet-Towards-Lightweight-and-Fast-High-Resolution-Dichotomous-Image-Segmentation) [![Stars](https://img.shields.io/github/stars/m0ho/S2DiNet-Towards-Lightweight-and-Fast-High-Resolution-Dichotomous-Image-Segmentation?style=social)](https://github.com/m0ho/S2DiNet-Towards-Lightweight-and-Fast-High-Resolution-Dichotomous-Image-Segmentation) |
 | | | | *Proposes a lightweight and efficient network architecture for high-resolution DIS with fast inference speed.* | | |
@@ -131,7 +131,7 @@ Big thanks to him for making this possible! ❤️
 | | | | *Incorporates frequency domain analysis and multi-scale features to achieve high-precision boundary segmentation.* | | |
 | 2024 | CVIU | **DCENet** | Dual Cross-enhancement Network for Highly Accurate DIS | Hongbo Bi, Yuyu Tong, Pan Zhang, Jiayuan Zhang, Cong Zhang | [Paper](https://www.sciencedirect.com/science/article/pii/S1077314224002030) / [Code](https://github.com/tongyuyu/DCENet) [![Stars](https://img.shields.io/github/stars/tongyuyu/DCENet?style=social)](https://github.com/tongyuyu/DCENet) |
 | | | | *Designs dual cross-enhancement modules to mutually reinforce feature representations for accurate segmentation.* | | |
-| 2024 | TVC | **BA-DIS** | Boundary-aware Dichotomous Image Segmentation | Haonan Tang, Shuhan Chen, Yang Liu, et al. | [Paper](https://link.springer.com/article/10.1007/s00371-024-03295-5) / [Code](https://github.com/m0ho/Boundary-Aware-Dichotomous-Image-Segmentation) [![Stars](https://img.shields.io/github/stars/m0ho/Boundary-Aware-Dichotomous-Image-Segmentation?style=social)](https://github.com/m0ho/Boundary-Aware-Dichotomous-Image-Segmentation) |
+| 2024 | TVC | **BA-DIS** | Boundary-aware Dichotomous Image Segmentation | Haonan Tang, Shuhan Chen, Yang Liu, Shiyu Wang, Zeyu Chen, Xuelong Hu | [Paper](https://link.springer.com/article/10.1007/s00371-024-03295-5) / [Code](https://github.com/m0ho/Boundary-Aware-Dichotomous-Image-Segmentation) [![Stars](https://img.shields.io/github/stars/m0ho/Boundary-Aware-Dichotomous-Image-Segmentation?style=social)](https://github.com/m0ho/Boundary-Aware-Dichotomous-Image-Segmentation) |
 | | | | *Focuses on boundary-aware learning to improve edge accuracy in dichotomous image segmentation.* | | |
 | 2024 | PR | **DC-Net** | Divide-and-conquer for Salient Object Detection | Jiayi Zhu, Xuebin Qin, Abdulmotaleb Elsaddik | [Paper](https://www.sciencedirect.com/science/article/pii/S003132032400654X) / [Code](https://github.com/PiggyJerry/DC-Net) [![Stars](https://img.shields.io/github/stars/PiggyJerry/DC-Net?style=social)](https://github.com/PiggyJerry/DC-Net) |
 | | | | *Adopts divide-and-conquer strategy to handle objects at different scales for robust salient object detection.* | | |
@@ -149,7 +149,7 @@ Big thanks to him for making this possible! ❤️
 
 | Year | Pub. | 🏗️ Network | Title | Author | Links |
 |------|------|-------------|-------|--------|-------|
-| 2022 | ECCV | **IS-Net** | Highly Accurate Dichotomous Image Segmentation | Xuebin Qin, Hang Dai, Xiaobin Hu, et al. | [Paper](https://arxiv.org/abs/2203.03041) / [Code](https://github.com/xuebinqin/DIS) [![Stars](https://img.shields.io/github/stars/xuebinqin/DIS?style=social)](https://github.com/xuebinqin/DIS) |
+| 2022 | ECCV | **IS-Net** | Highly Accurate Dichotomous Image Segmentation | Xuebin Qin, Hang Dai, Xiaobin Hu, Deng-Ping Fan, Ling Shao, Luc Van Gool | [Paper](https://arxiv.org/abs/2203.03041) / [Code](https://github.com/xuebinqin/DIS) [![Stars](https://img.shields.io/github/stars/xuebinqin/DIS?style=social)](https://github.com/xuebinqin/DIS) |
 | | | | *🌱 The pioneering work that defines the DIS task and proposes a baseline with a large-scale dataset.* | | |
 
 ---
@@ -166,9 +166,9 @@ Big thanks to him for making this possible! ❤️
 | | | | *Proposes a training-free approach for interactive segmentation using multi-modal information without additional training.* | | |
 | 2025 | arXiv | **SAM2-UNeXT** | An Improved High-Resolution Baseline for Adapting Foundation Models | Xinyu Xiong, Zihuang Wu, Lei Zhang, Lei Lu, Ming Li, Guanbin Li | [Paper](https://arxiv.org/abs/2508.03566) / [Code](https://github.com/WZH0120/SAM2-UNeXT) [![Stars](https://img.shields.io/github/stars/WZH0120/SAM2-UNeXT?style=social)](https://github.com/WZH0120/SAM2-UNeXT) |
 | | | | *Develops an improved high-resolution baseline for adapting SAM2 to downstream segmentation tasks.* | | |
-| 2025 | arXiv | **MGD-SAM2** | Multi-view Guided Detail-enhanced SAM 2 for High-Resolution Segmentation | Haoran Shen, Peixian Zhuang, Jiahao Kou, Yuxin Zeng, Haoying Xu, Jiangyun Li | [Paper](https://arxiv.org/abs/2503.23786) / [Code](https://github.com/sevenshr/MGD-SAM2) [![Stars](https://img.shields.io/github/stars/sevenshr/MGD-SAM2?style=social)](https://github.com/sevenshr/MGD-SAM2) |
+| 2026 | IEEE TCSVT | **MGD-SAM2** | Multi-view Guided Detail-enhanced SAM 2 for High-Resolution Segmentation | Haoran Shen, Peixian Zhuang, Jiahao Kou, Yuxin Zeng, Haoying Xu, Jiangyun Li | [Paper](https://arxiv.org/abs/2503.23786) / [Code](https://github.com/sevenshr/MGD-SAM2) [![Stars](https://img.shields.io/github/stars/sevenshr/MGD-SAM2?style=social)](https://github.com/sevenshr/MGD-SAM2) |
 | | | | *Enhances SAM2 with multi-view guidance and detail enhancement for high-resolution class-agnostic segmentation.* | | |
-| 2023 | arXiv | **SU-SAM** | A Simple Unified Framework for Adapting SAM in Underperformed Scenes | Yiran Song, Qianyu Zhou, Xuequan Lu, Zhiwen Shao, Lizhuang Ma | [Paper](https://arxiv.org/abs/2401.17803) / [Code](https://github.com/zongzi13545329/SimAda) [![Stars](https://img.shields.io/github/stars/zongzi13545329/SimAda?style=social)](https://github.com/zongzi13545329/SimAda) |
+| 2025 | ICME | **SU-SAM** | A Simple Unified Framework for Adapting SAM in Underperformed Scenes | Yiran Song, Qianyu Zhou, Xuequan Lu, Zhiwen Shao, Lizhuang Ma | [Paper](https://arxiv.org/abs/2401.17803) / [Code](https://github.com/zongzi13545329/SimAda) [![Stars](https://img.shields.io/github/stars/zongzi13545329/SimAda?style=social)](https://github.com/zongzi13545329/SimAda) |
 | | | | *Proposes a simple unified framework to adapt SAM for challenging scenes where the original model underperforms.* | | |
 
 ### 2026
@@ -184,20 +184,20 @@ Big thanks to him for making this possible! ❤️
 
 | Year | Pub. | 🏗️ Network | Title | Author | Links |
 |------|------|-------------|-------|--------|-------|
-| 2025 | ICCV | **LawDIS** | Language-Window-based Controllable DIS | Xinyu Yan, Meijun Sun, Ge-Peng Ji, et al. | [Paper](https://arxiv.org/abs/2508.01152) / [Code](https://github.com/XinyuYanTJU/LawDIS) [![Stars](https://img.shields.io/github/stars/XinyuYanTJU/LawDIS?style=social)](https://github.com/XinyuYanTJU/LawDIS) |
+| 2025 | ICCV | **LawDIS** | Language-Window-based Controllable DIS | Xinyu Yan, Meijun Sun, Ge-Peng Ji, Fahad Shahbaz Khan, Salman Khan, Deng-Ping Fan | [Paper](https://arxiv.org/abs/2508.01152) / [Code](https://github.com/XinyuYanTJU/LawDIS) [![Stars](https://img.shields.io/github/stars/XinyuYanTJU/LawDIS?style=social)](https://github.com/XinyuYanTJU/LawDIS) |
 | | | | *Enables controllable DIS through language and window-based interaction for flexible user control.* | | |
 | 2025 | ICLR | **OrderIS** | Order-aware Interactive Segmentation | Bin Wang, Anwesa Choudhuri, Meng Zheng, Zhongpai Gao, Benjamin Planche, Andong Deng, Qin Liu, Terrence Chen, Ulas Bagci, Ziyan Wu | [Paper](https://arxiv.org/abs/2410.12214) |
 | | | | *Incorporates order-aware learning into interactive segmentation to model the sequential nature of user interactions.* | | |
 | 2025 | ICME | **DIS-SAM** | Promoting SAM towards Highly Accurate DIS | Xianjie Liu, Keren Fu, Yao Jiang, Qijun Zhao | [Paper](https://arxiv.org/abs/2401.00248) / [Code](https://github.com/Tennine2077/DIS-SAM) [![Stars](https://img.shields.io/github/stars/Tennine2077/DIS-SAM?style=social)](https://github.com/Tennine2077/DIS-SAM) |
 | | | | *Adapts SAM specifically for high-precision DIS with enhanced boundary awareness and detail preservation.* | | |
-| 2025 | ESWA | **EG-SAM** | An Edge-Guided SAM for Effective Complex Object Segmentation | Longyi Chen, Xiandong Wang, Fengqin Yao, et al. | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417425001824) / [Code](https://github.com/code-797/EG-SAM) [![Stars](https://img.shields.io/github/stars/code-797/EG-SAM?style=social)](https://github.com/code-797/EG-SAM) |
+| 2025 | ESWA | **EG-SAM** | An Edge-Guided SAM for Effective Complex Object Segmentation | Longyi Chen, Xiandong Wang, Fengqin Yao, Mingchen Song, Jiaheng Zhang, Shengke Wang | [Paper](https://www.sciencedirect.com/science/article/pii/S0957417425001824) / [Code](https://github.com/code-797/EG-SAM) [![Stars](https://img.shields.io/github/stars/code-797/EG-SAM?style=social)](https://github.com/code-797/EG-SAM) |
 | | | | *Integrates edge guidance into SAM for more effective segmentation of complex objects with intricate boundaries.* | | |
 
 ### 2024
 
 | Year | Pub. | 🏗️ Network | Title | Author | Links |
 |------|------|-------------|-------|--------|-------|
-| 2024 | ACM MM | **PI-SAM** | Segment Anything with Precise Interaction | Mengzhen Liu, Mengyu Wang, Henghui Ding, et al. | [Paper](https://openreview.net/pdf?id=lD9A7SS4BP) |
+| 2024 | ACM MM | **PI-SAM** | Segment Anything with Precise Interaction | Mengzhen Liu, Mengyu Wang, Henghui Ding, Yilong Xu, Yao Zhao, Yunchao Wei | [Paper](https://openreview.net/pdf?id=lD9A7SS4BP) |
 | | | | *Improves SAM's interaction mechanism for more precise user control and better segmentation accuracy.* | | |
 | 2024 | CVPR | **SegNext** | Rethinking Interactive Image Segmentation with Low Latency High Quality | Qin Liu, Jaemin Cho, Mohit Bansal, Marc Niethammer | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Rethinking_Interactive_Image_Segmentation_with_Low_Latency_High_Quality_and_CVPR_2024_paper.html) / [Code](https://github.com/uncbiag/SegNext) [![Stars](https://img.shields.io/github/stars/uncbiag/SegNext?style=social)](https://github.com/uncbiag/SegNext) |
 | | | | *Rethinks the trade-off between latency and quality in interactive segmentation for practical applications.* | | |
