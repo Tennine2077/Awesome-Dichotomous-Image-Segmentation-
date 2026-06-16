@@ -112,26 +112,26 @@
 
 | 年份 | 期刊 | 🏗️ 网络 | 标题 | 作者 | 链接 |
 |------|------|-------------|-------|--------|-------|
-| 2025 | ICLR | **DiffDIS** | High-Precision DIS via Probing Diffusion Capacity | Qian Yu, Peng-Tao Jiang, Hao Zhang, et al. | [论文](https://arxiv.org/abs/2410.10105) / [代码](https://github.com/qianyu-dlut/DiffDIS) [![Stars](https://img.shields.io/github/stars/qianyu-dlut/DiffDIS?style=social)](https://github.com/qianyu-dlut/DiffDIS) |
+| 2025 | ICLR | **DiffDIS** | High-Precision DIS via Probing Diffusion Capacity | Qian Yu, Peng-Tao Jiang, Hao Zhang, Jinwei Chen, Bo Li, Lihe Zhang, Huchuan Lu | [论文](https://arxiv.org/abs/2410.10105) / [代码](https://github.com/qianyu-dlut/DiffDIS) [![Stars](https://img.shields.io/github/stars/qianyu-dlut/DiffDIS?style=social)](https://github.com/qianyu-dlut/DiffDIS) |
 | | | | *探索预训练扩散模型的内在能力，实现高精度二分图像分割。* | | |
 | 2025 | ICLR | **GenPercept** | What Matters When Repurposing Diffusion Models for General Dense Perception Tasks? | Guangkai Xu, Yongtao Ge, Mingyu Liu, et al. | [论文](https://arxiv.org/abs/2403.06090) / [代码](https://github.com/aim-uofa/GenPercept) [![Stars](https://img.shields.io/github/stars/aim-uofa/GenPercept?style=social)](https://github.com/aim-uofa/GenPercept) |
 | | | | *系统性地研究了将扩散模型适配于密集预测任务（包括DIS）的关键因素。* | | |
-| 2025 | PR | **S2DiNet** | Towards Lightweight and Fast High-Resolution DIS | Shuhan Chen, Haonan Tang, Yuan Huang, et al. | [论文](https://www.sciencedirect.com/science/article/pii/S0031320325001669) / [代码](https://github.com/m0ho/S2DiNet-Towards-Lightweight-and-Fast-High-Resolution-Dichotomous-Image-Segmentation) [![Stars](https://img.shields.io/github/stars/m0ho/S2DiNet-Towards-Lightweight-and-Fast-High-Resolution-Dichotomous-Image-Segmentation?style=social)](https://github.com/m0ho/S2DiNet-Towards-Lightweight-and-Fast-High-Resolution-Dichotomous-Image-Segmentation) |
+| 2025 | PR | **S2DiNet** | Towards Lightweight and Fast High-Resolution DIS | Shuhan Chen, Haonan Tang, Yuan Huang, Lifeng Zhang, Xuelong Hu | [论文](https://www.sciencedirect.com/science/article/pii/S0031320325001669) / [代码](https://github.com/m0ho/S2DiNet-Towards-Lightweight-and-Fast-High-Resolution-Dichotomous-Image-Segmentation) [![Stars](https://img.shields.io/github/stars/m0ho/S2DiNet-Towards-Lightweight-and-Fast-High-Resolution-Dichotomous-Image-Segmentation?style=social)](https://github.com/m0ho/S2DiNet-Towards-Lightweight-and-Fast-High-Resolution-Dichotomous-Image-Segmentation) |
 | | | | *提出轻量化高效的网络架构，实现高分辨率DIS的快速推理。* | | |
 
 ### 2024年
 
 | 年份 | 期刊 | 🏗️ 网络 | 标题 | 作者 | 链接 |
 |------|------|-------------|-------|--------|-------|
-| 2024 | NeurIPS | **MaskFactory** | Towards High-quality Synthetic Data Generation For DIS | Haotian Qian, Yinda Chen, Shengtao Lou, et al. | [论文](https://openreview.net/pdf?id=iM5i289eqt) / [代码](https://github.com/ydchen0806/MaskFactory) [![Stars](https://img.shields.io/github/stars/ydchen0806/MaskFactory?style=social)](https://github.com/ydchen0806/MaskFactory) |
+| 2024 | NeurIPS | **MaskFactory** | Towards High-quality Synthetic Data Generation For DIS | Haotian Qian, YD Chen, Shengtao Lou, Fahad Shahbaz Khan, Xiaogang Jin, Deng-Ping Fan | [论文](https://openreview.net/pdf?id=iM5i289eqt) / [代码](https://github.com/ydchen0806/MaskFactory) [![Stars](https://img.shields.io/github/stars/ydchen0806/MaskFactory?style=social)](https://github.com/ydchen0806/MaskFactory) |
 | | | | *通过结合图像合成和掩码细化技术，为DIS生成高质量的合成训练数据。* | | |
-| 2024 | CVPR | **MVANet** | Multi-view Aggregation Network for DIS | Qian Yu, Xiaoqi Zhao, Youwei Pang, et al. | [论文](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Multi-view_Aggregation_Network_for_Dichotomous_Image_Segmentation_CVPR_2024_paper.html) / [代码](https://github.com/qianyu-dlut/MVANet) [![Stars](https://img.shields.io/github/stars/qianyu-dlut/MVANet?style=social)](https://github.com/qianyu-dlut/MVANet) |
+| 2024 | CVPR | **MVANet** | Multi-view Aggregation Network for DIS | Qian Yu, Xiaoqi Zhao, Youwei Pang, Lihe Zhang, Huchuan Lu | [论文](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Multi-view_Aggregation_Network_for_Dichotomous_Image_Segmentation_CVPR_2024_paper.html) / [代码](https://github.com/qianyu-dlut/MVANet) [![Stars](https://img.shields.io/github/stars/qianyu-dlut/MVANet?style=social)](https://github.com/qianyu-dlut/MVANet) |
 | | | | *提出多视图聚合策略，同时捕获全局上下文和局部细节以实现精确分割。* | | |
-| 2024 | CAAI AIR | **BiRefNet** | Bilateral Reference for High-Resolution DIS | Peng Zheng, Dehong Gao, Deng-Ping Fan, et al. | [论文](https://arxiv.org/abs/2401.03407) / [代码](https://github.com/ZhengPeng7/BiRefNet) [![Stars](https://img.shields.io/github/stars/ZhengPeng7/BiRefNet?style=social)](https://github.com/ZhengPeng7/BiRefNet) |
+| 2024 | CAAI AIR | **BiRefNet** | Bilateral Reference for High-Resolution DIS | Peng Zheng, Dehong Gao, Deng-Ping Fan, Li Liu, Jorma Laaksonen, Wanli Ouyang, Nicu Sebe | [论文](https://arxiv.org/abs/2401.03407) / [代码](https://github.com/ZhengPeng7/BiRefNet) [![Stars](https://img.shields.io/github/stars/ZhengPeng7/BiRefNet?style=social)](https://github.com/ZhengPeng7/BiRefNet) |
 | | | | *引入双边参考机制，在保持精细细节的同时高效处理高分辨率图像。* | | |
-| 2024 | TNNLS | **FSANet** | High-Precision DIS With Frequency and Scale Awareness | Qiuping Jiang, Jinguang Cheng, Zongwei Wu, et al. | [论文](https://ieeexplore.ieee.org/abstract/document/10638122) / [代码](https://github.com/chasecjg/FSANet) [![Stars](https://img.shields.io/github/stars/chasecjg/FSANet?style=social)](https://github.com/chasecjg/FSANet) |
+| 2024 | TNNLS | **FSANet** | High-Precision DIS With Frequency and Scale Awareness | Qiuping Jiang, Jinguang Cheng, Zongwei Wu, Runmin Cong, Radu Timofte | [论文](https://ieeexplore.ieee.org/abstract/document/10638122) / [代码](https://github.com/chasecjg/FSANet) [![Stars](https://img.shields.io/github/stars/chasecjg/FSANet?style=social)](https://github.com/chasecjg/FSANet) |
 | | | | *结合频域分析和多尺度特征，实现高精度边界分割。* | | |
-| 2024 | CVIU | **DCENet** | Dual Cross-enhancement Network for Highly Accurate DIS | Hongbo Bi, Yuyu Tong, Pan Zhang, et al. | [论文](https://www.sciencedirect.com/science/article/pii/S1077314224002030) / [代码](https://github.com/tongyuyu/DCENet) [![Stars](https://img.shields.io/github/stars/tongyuyu/DCENet?style=social)](https://github.com/tongyuyu/DCENet) |
+| 2024 | CVIU | **DCENet** | Dual Cross-enhancement Network for Highly Accurate DIS | Hongbo Bi, Yuyu Tong, Pan Zhang, Jiayuan Zhang, Cong Zhang | [论文](https://www.sciencedirect.com/science/article/pii/S1077314224002030) / [代码](https://github.com/tongyuyu/DCENet) [![Stars](https://img.shields.io/github/stars/tongyuyu/DCENet?style=social)](https://github.com/tongyuyu/DCENet) |
 | | | | *设计双交叉增强模块，相互强化特征表示以实现精确分割。* | | |
 | 2024 | TVC | **BA-DIS** | Boundary-aware Dichotomous Image Segmentation | Haonan Tang, Shuhan Chen, Yang Liu, et al. | [论文](https://link.springer.com/article/10.1007/s00371-024-03295-5) / [代码](https://github.com/m0ho/Boundary-Aware-Dichotomous-Image-Segmentation) [![Stars](https://img.shields.io/github/stars/m0ho/Boundary-Aware-Dichotomous-Image-Segmentation?style=social)](https://github.com/m0ho/Boundary-Aware-Dichotomous-Image-Segmentation) |
 | | | | *专注于边界感知学习，提升二分图像分割的边缘精度。* | | |
@@ -142,9 +142,9 @@
 
 | 年份 | 期刊 | 🏗️ 网络 | 标题 | 作者 | 链接 |
 |------|------|-------------|-------|--------|-------|
-| 2023 | ACM MM | **UDUN** | Unite-Divide-Unite: Joint Boosting Trunk and Structure for High-accuracy DIS | Jialun Pei, Zhangjun Zhou, Yueming Jin, et al. | [论文](https://arxiv.org/abs/2307.14052) / [代码](https://github.com/PJLallen/UDUN) [![Stars](https://img.shields.io/github/stars/PJLallen/UDUN?style=social)](https://github.com/PJLallen/UDUN) |
+| 2023 | ACM MM | **UDUN** | Unite-Divide-Unite: Joint Boosting Trunk and Structure for High-accuracy DIS | Jialun Pei, Zhangjun Zhou, Yueming Jin, He Tang, Pheng-Ann Heng | [论文](https://arxiv.org/abs/2307.14052) / [代码](https://github.com/PJLallen/UDUN) [![Stars](https://img.shields.io/github/stars/PJLallen/UDUN?style=social)](https://github.com/PJLallen/UDUN) |
 | | | | *提出统一-分治-统一范式，联合优化主干特征和结构细节以实现高精度。* | | |
-| 2023 | IJCAI | **FP-DIS** | Dichotomous Image Segmentation with Frequency Priors | Yan Zhou, Bo Dong, Yuanfeng Wu, et al. | [论文](https://www.ijcai.org/proceedings/2023/202) / [代码](https://github.com/dongbo811/FP-DIS) [![Stars](https://img.shields.io/github/stars/dongbo811/FP-DIS?style=social)](https://github.com/dongbo811/FP-DIS) |
+| 2023 | IJCAI | **FP-DIS** | Dichotomous Image Segmentation with Frequency Priors | Yan Zhou, Bo Dong, Yuanfeng Wu, Wentao Zhu, Geng Chen, Yanning Zhang | [论文](https://www.ijcai.org/proceedings/2023/202) / [代码](https://github.com/dongbo811/FP-DIS) [![Stars](https://img.shields.io/github/stars/dongbo811/FP-DIS?style=social)](https://github.com/dongbo811/FP-DIS) |
 | | | | *利用频域先验增强边界感知能力和分割精度。* | | |
 
 ### 2022年
@@ -164,13 +164,13 @@
 
 | 年份 | 期刊 | 🏗️ 网络 | 标题 | 作者 | 链接 |
 |------|------|-------------|-------|--------|-------|
-| 2025 | arXiv | **M2N2V2** | Multi-Modal Unsupervised and Training-free Interactive Segmentation | Markus Karmann, Peng-Tao Jiang, Bo Li, et al. | [论文](https://arxiv.org/abs/2503.16254) |
+| 2025 | arXiv | **M2N2V2** | Multi-Modal Unsupervised and Training-free Interactive Segmentation | Markus Karmann, Peng-Tao Jiang, Bo Li, Onay Urfalioglu | [论文](https://arxiv.org/abs/2503.16254) |
 | | | | *提出一种无需训练的方法，利用多模态信息实现交互式分割。* | | |
-| 2025 | arXiv | **SAM2-UNeXT** | An Improved High-Resolution Baseline for Adapting Foundation Models | Xinyu Xiong, Zihuang Wu, Lei Zhang, et al. | [论文](https://arxiv.org/abs/2508.03566) / [代码](https://github.com/WZH0120/SAM2-UNeXT) [![Stars](https://img.shields.io/github/stars/WZH0120/SAM2-UNeXT?style=social)](https://github.com/WZH0120/SAM2-UNeXT) |
+| 2025 | arXiv | **SAM2-UNeXT** | An Improved High-Resolution Baseline for Adapting Foundation Models | Xinyu Xiong, Zihuang Wu, Lei Zhang, Lei Lu, Ming Li, Guanbin Li | [论文](https://arxiv.org/abs/2508.03566) / [代码](https://github.com/WZH0120/SAM2-UNeXT) [![Stars](https://img.shields.io/github/stars/WZH0120/SAM2-UNeXT?style=social)](https://github.com/WZH0120/SAM2-UNeXT) |
 | | | | *开发了改进的高分辨率基线，用于将SAM2适配到下游分割任务。* | | |
-| 2025 | arXiv | **MGD-SAM2** | Multi-view Guided Detail-enhanced SAM 2 for High-Resolution Segmentation | Haoran Shen, Peixian Zhuang, Jiahao Kou, et al. | [论文](https://arxiv.org/abs/2503.23786) / [代码](https://github.com/sevenshr/MGD-SAM2) [![Stars](https://img.shields.io/github/stars/sevenshr/MGD-SAM2?style=social)](https://github.com/sevenshr/MGD-SAM2) |
+| 2025 | arXiv | **MGD-SAM2** | Multi-view Guided Detail-enhanced SAM 2 for High-Resolution Segmentation | Haoran Shen, Peixian Zhuang, Jiahao Kou, Yuxin Zeng, Haoying Xu, Jiangyun Li | [论文](https://arxiv.org/abs/2503.23786) / [代码](https://github.com/sevenshr/MGD-SAM2) [![Stars](https://img.shields.io/github/stars/sevenshr/MGD-SAM2?style=social)](https://github.com/sevenshr/MGD-SAM2) |
 | | | | *通过多视图引导和细节增强机制，提升SAM2在高分辨率类别无关分割中的表现。* | | |
-| 2023 | arXiv | **SU-SAM** | A Simple Unified Framework for Adapting SAM in Underperformed Scenes | Yiran Song, Qianyu Zhou, Xuequan Lu, et al. | [论文](https://arxiv.org/abs/2401.17803) / [代码](https://github.com/zongzi13545329/SimAda) [![Stars](https://img.shields.io/github/stars/zongzi13545329/SimAda?style=social)](https://github.com/zongzi13545329/SimAda) |
+| 2023 | arXiv | **SU-SAM** | A Simple Unified Framework for Adapting SAM in Underperformed Scenes | Yiran Song, Qianyu Zhou, Xuequan Lu, Zhiwen Shao, Lizhuang Ma | [论文](https://arxiv.org/abs/2401.17803) / [代码](https://github.com/zongzi13545329/SimAda) [![Stars](https://img.shields.io/github/stars/zongzi13545329/SimAda?style=social)](https://github.com/zongzi13545329/SimAda) |
 | | | | *提出简单统一的框架，将SAM适配到原始模型表现不佳的挑战性场景。* | | |
 
 ### 2026年
@@ -179,7 +179,7 @@
 |------|------|-------------|-------|--------|-------|
 | 2026 | CVPR | **FlowDIS** | Language-Guided Dichotomous Image Segmentation with Flow Matching | Andranik Sargsyan, Shant Navasardyan | [论文](https://arxiv.org/abs/2605.05077) / [项目](https://flowdis.github.io/) / [代码](https://github.com/Picsart-AI-Research/FlowDIS) [![Stars](https://img.shields.io/github/stars/Picsart-AI-Research/FlowDIS?style=social)](https://github.com/Picsart-AI-Research/FlowDIS) |
 | | | | *基于流匹配框架，将图像分布转换为对应的掩码分布，并通过位置感知实例配对 (PAIP) 训练策略支持可选的文本提示引导。* | | |
-| 2026 | Sensors | **PMG-SAM** | Boosting Auto-Segmentation of SAM with Pre-Mask Guidance | Xinyu Yan, Meijun Sun, Ge-Peng Ji, et al. | [论文](https://www.mdpi.com/1424-8220/26/2/365) |
+| 2026 | Sensors | **PMG-SAM** | Boosting Auto-Segmentation of SAM with Pre-Mask Guidance | Jixue Gao, Xiaoyan Jiang, Anjie Wang, Yongbin Gao, Zhijun Fang, Michael S. Lew | [论文](https://www.mdpi.com/1424-8220/26/2/365) |
 | | | | *引入预掩码引导机制，提升SAM的自动分割能力以获得更好的初始预测。* | | |
 
 ### 2025年
@@ -190,7 +190,7 @@
 | | | | *通过语言和窗口交互实现可控的DIS，提供灵活的用户控制方式。* | | |
 | 2025 | ICLR | **OrderIS** | Order-aware Interactive Segmentation | Bin Wang, Anwesa Choudhuri, Meng Zheng, et al. | [论文](https://arxiv.org/abs/2410.12214) |
 | | | | *将序列感知学习融入交互式分割，建模用户交互的顺序特性。* | | |
-| 2025 | ICME | **DIS-SAM** | Promoting SAM towards Highly Accurate DIS | Xianjie Liu, Keren Fu, Yao Jiang, et al. | [论文](https://arxiv.org/abs/2401.00248) / [代码](https://github.com/Tennine2077/DIS-SAM) [![Stars](https://img.shields.io/github/stars/Tennine2077/DIS-SAM?style=social)](https://github.com/Tennine2077/DIS-SAM) |
+| 2025 | ICME | **DIS-SAM** | Promoting SAM towards Highly Accurate DIS | Xianjie Liu, Keren Fu, Yao Jiang, Qijun Zhao | [论文](https://arxiv.org/abs/2401.00248) / [代码](https://github.com/Tennine2077/DIS-SAM) [![Stars](https://img.shields.io/github/stars/Tennine2077/DIS-SAM?style=social)](https://github.com/Tennine2077/DIS-SAM) |
 | | | | *专门将SAM适配于高精度DIS，增强边界感知和细节保留能力。* | | |
 | 2025 | ESWA | **EG-SAM** | An Edge-Guided SAM for Effective Complex Object Segmentation | Longyi Chen, Xiandong Wang, Fengqin Yao, et al. | [论文](https://www.sciencedirect.com/science/article/pii/S0957417425001824) / [代码](https://github.com/code-797/EG-SAM) [![Stars](https://img.shields.io/github/stars/code-797/EG-SAM?style=social)](https://github.com/code-797/EG-SAM) |
 | | | | *将边缘引导集成到SAM中，更有效地分割具有复杂边界的物体。* | | |
@@ -201,24 +201,24 @@
 |------|------|-------------|-------|--------|-------|
 | 2024 | ACM MM | **PI-SAM** | Segment Anything with Precise Interaction | Mengzhen Liu, Mengyu Wang, Henghui Ding, et al. | [论文](https://openreview.net/pdf?id=lD9A7SS4BP) |
 | | | | *改进SAM的交互机制，实现更精确的用户控制和更好的分割精度。* | | |
-| 2024 | CVPR | **SegNext** | Rethinking Interactive Image Segmentation with Low Latency High Quality | Qin Liu, Jaemin Cho, Mohit Bansal, et al. | [论文](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Rethinking_Interactive_Image_Segmentation_with_Low_Latency_High_Quality_and_CVPR_2024_paper.html) / [代码](https://github.com/uncbiag/SegNext) [![Stars](https://img.shields.io/github/stars/uncbiag/SegNext?style=social)](https://github.com/uncbiag/SegNext) |
+| 2024 | CVPR | **SegNext** | Rethinking Interactive Image Segmentation with Low Latency High Quality | Qin Liu, Jaemin Cho, Mohit Bansal, Marc Niethammer | [论文](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Rethinking_Interactive_Image_Segmentation_with_Low_Latency_High_Quality_and_CVPR_2024_paper.html) / [代码](https://github.com/uncbiag/SegNext) [![Stars](https://img.shields.io/github/stars/uncbiag/SegNext?style=social)](https://github.com/uncbiag/SegNext) |
 | | | | *重新思考交互式分割中延迟与质量的权衡，面向实际应用场景。* | | |
-| 2024 | ECCV | **CAT-SAM** | Conditional Tuning for Few-Shot Adaptation of SAM | Aoran Xiao, Weihao Xuan, Heli Qi, et al. | [论文](https://arxiv.org/abs/2402.03631) / [代码](https://github.com/weihao1115/cat-sam) [![Stars](https://img.shields.io/github/stars/weihao1115/cat-sam?style=social)](https://github.com/weihao1115/cat-sam) |
+| 2024 | ECCV | **CAT-SAM** | Conditional Tuning for Few-Shot Adaptation of SAM | Aoran Xiao, Weihao Xuan, Heli Qi, Yun Xing, Ruijie Ren, Xiaoqin Zhang, Ling Shao, Shijian Lu | [论文](https://arxiv.org/abs/2402.03631) / [代码](https://github.com/weihao1115/cat-sam) [![Stars](https://img.shields.io/github/stars/weihao1115/cat-sam?style=social)](https://github.com/weihao1115/cat-sam) |
 | | | | *提出条件调优方法，实现SAM在有限样本下对新领域的少样本适配。* | | |
-| 2024 | ICCV | **BA-SAM** | Scalable Bias-Mode Attention Mask for SAM | Yiran Song, Qianyu Zhou, Xiangtai Li, et al. | [论文](https://openaccess.thecvf.com/content/CVPR2024/html/Song_BA-SAM_Scalable_Bias-Mode_Attention_Mask_for_Segment_Anything_Model_CVPR_2024_paper.html) |
+| 2024 | ICCV | **BA-SAM** | Scalable Bias-Mode Attention Mask for SAM | Yiran Song, Qianyu Zhou, Xiangtai Li, Deng-Ping Fan, Xuequan Lu, Lizhuang Ma | [论文](https://openaccess.thecvf.com/content/CVPR2024/html/Song_BA-SAM_Scalable_Bias-Mode_Attention_Mask_for_Segment_Anything_Model_CVPR_2024_paper.html) |
 | | | | *引入偏置模式注意力掩码，以可扩展的设计提升SAM的分割质量。* | | |
-| 2024 | ECCV | **OVSAM** | Mamba or RWKV: Exploring High-Quality and High-Efficiency SAM | Haobo Yuan, Xiangtai Li, Lu Qi, et al. | [论文](https://arxiv.org/abs/2406.19369) / [代码](https://github.com/HarborYuan/ovsam) [![Stars](https://img.shields.io/github/stars/HarborYuan/ovsam?style=social)](https://github.com/HarborYuan/ovsam) |
+| 2024 | ECCV | **OVSAM** | Mamba or RWKV: Exploring High-Quality and High-Efficiency SAM | Haobo Yuan, Xiangtai Li, Lu Qi, Tao Zhang, Ming-Hsuan Yang, Shuicheng Yan, Chen Change Loy | [论文](https://arxiv.org/abs/2406.19369) / [代码](https://github.com/HarborYuan/ovsam) [![Stars](https://img.shields.io/github/stars/HarborYuan/ovsam?style=social)](https://github.com/HarborYuan/ovsam) |
 | | | | *探索Mamba和RWKV架构作为Transformer的替代方案，实现高效高质量分割。* | | |
-| 2024 | ICME | **PA-SAM** | Prompt Adapter SAM for High-Quality Image Segmentation | Zhaozhi Xie, Bochen Guan, Weihao Jiang, et al. | [论文](https://arxiv.org/abs/2401.13051) / [代码](https://github.com/xzz2/pa-sam) [![Stars](https://img.shields.io/github/stars/xzz2/pa-sam?style=social)](https://github.com/xzz2/pa-sam) |
+| 2024 | ICME | **PA-SAM** | Prompt Adapter SAM for High-Quality Image Segmentation | Zhaozhi Xie, Bochen Guan, Weihao Jiang, Muyang Yi, Yue Ding, Hongtao Lu, Lei Zhang | [论文](https://arxiv.org/abs/2401.13051) / [代码](https://github.com/xzz2/pa-sam) [![Stars](https://img.shields.io/github/stars/xzz2/pa-sam?style=social)](https://github.com/xzz2/pa-sam) |
 | | | | *设计提示适配器，增强SAM在高质量图像分割任务中的能力。* | | |
-| 2024 | PRICAI | **BSRNet** | Prior Mask-Guided Highly Accurate DIS | Shanfeng Zhou, Bo Yuan, Keren Fu, et al. | [论文](https://link.springer.com/chapter/10.1007/978-981-96-0125-7_10) / [代码](https://github.com/firewoodcutter/BSRNet) [![Stars](https://img.shields.io/github/stars/firewoodcutter/BSRNet?style=social)](https://github.com/firewoodcutter/BSRNet) |
+| 2024 | PRICAI | **BSRNet** | Prior Mask-Guided Highly Accurate DIS | Shanfeng Zhou, Bo Yuan, Keren Fu, Hailun Zhang, Qijun Zhao | [论文](https://link.springer.com/chapter/10.1007/978-981-96-0125-7_10) / [代码](https://github.com/firewoodcutter/BSRNet) [![Stars](https://img.shields.io/github/stars/firewoodcutter/BSRNet?style=social)](https://github.com/firewoodcutter/BSRNet) |
 | | | | *利用先验掩码引导实现高精度的二分图像分割。* | | |
 
 ### 2023年
 
 | 年份 | 期刊 | 🏗️ 网络 | 标题 | 作者 | 链接 |
 |------|------|-------------|-------|--------|-------|
-| 2023 | NeurIPS | **SAM-HQ** | Segment Anything in High Quality | Lei Ke, Mingqiao Ye, Martin Danelljan, et al. | [论文](https://arxiv.org/abs/2306.01567) / [代码](https://github.com/SysCV/SAM-HQ) [![Stars](https://img.shields.io/github/stars/SysCV/SAM-HQ?style=social)](https://github.com/SysCV/SAM-HQ) |
+| 2023 | NeurIPS | **SAM-HQ** | Segment Anything in High Quality | Lei Ke, Mingqiao Ye, Martin Danelljan, Yifan Liu, Yu-Wing Tai, Chi-Keung Tang, Fisher Yu | [论文](https://arxiv.org/abs/2306.01567) / [代码](https://github.com/SysCV/SAM-HQ) [![Stars](https://img.shields.io/github/stars/SysCV/SAM-HQ?style=social)](https://github.com/SysCV/SAM-HQ) |
 | | | | *🌟 增强SAM的输出质量，实现更精细的边界和更准确的分割掩码。* | | |
 | 2023 | NeurIPS | **SegRefiner** | Towards Model-Agnostic Segmentation Refinement with Discrete Diffusion | Mengyu Wang, Henghui Ding, Jun Hao Liew, et al. | [论文](https://arxiv.org/abs/2312.12425) / [代码](https://github.com/MengyuWang826/SegRefiner) [![Stars](https://img.shields.io/github/stars/MengyuWang826/SegRefiner?style=social)](https://github.com/MengyuWang826/SegRefiner) |
 | | | | *提出基于离散扩散的模型无关细化方法，提升分割质量。* | | |
